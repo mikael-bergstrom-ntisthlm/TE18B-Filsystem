@@ -13,7 +13,7 @@ namespace TE18B_Filsystem
 
       // string s = File.ReadAllText("words.txt");
 
-      // Console.WriteLine(s);
+      Console.WriteLine("HELLO");
 
 
 
